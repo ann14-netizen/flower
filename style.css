@@ -53,3 +53,6 @@ body{
     flex-direction: column-reverse;
     column-gap: 100px;
 }
+p{
+   color: white; 
+}
